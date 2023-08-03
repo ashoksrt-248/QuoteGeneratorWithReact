@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+main {
+  background-color: burlywood;
+  text-align: center;
+}
+section {
+  background-color: darkcyan;
+  height: 160px;
+  color: white;
+}
+button {
+  background-color: deeppink;
+}
